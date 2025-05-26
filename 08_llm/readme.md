@@ -18,7 +18,7 @@ LLM stands for Large Language Model.
 
 An LLM processes data in the following stages:  
 
-`Raw Data → Tokens → Embeddings → Attention → Vectors → Output`
+`Raw Data → Tokenization → Embeddings → Attention → Vector Processing → Prediction → Output`
 
 At each stage, the text is converted into a format the AI can understand.
 
